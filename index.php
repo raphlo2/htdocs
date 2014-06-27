@@ -8,7 +8,7 @@ Last name: <input type="text" required name="lastname">
 Age: <input type="number" required name="age">
 <input type="submit"  name="submit">
 </form>
-<a href="http://localhost:8888/list-all.php">List all records</a>
+<a href="/list-all.php">List all records</a>
 
 
 
