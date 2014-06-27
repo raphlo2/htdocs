@@ -1,0 +1,30 @@
+@charset "UTF-8";
+/* CSS Document */
+body{
+font-family:helvetica, arial, sans-serif;
+font-size:15px;	
+}
+
+table{
+	width:600px;
+	border:0;
+	font-family:helvetica, arial, sans-serif;
+font-size:15px;
+}
+
+th{
+	text-align:left;
+	padding:10px;
+}
+
+tr:nth-child(odd){ background:#eee; }
+tr:nth-child(even){ background:#ddd; }
+
+td{
+	padding:10px;
+}
+
+input{
+	padding:3px;
+}
+
